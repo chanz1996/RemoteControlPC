@@ -3,10 +3,7 @@ package image;
 
 import static remotecontrolpc.MainScreenController.mainScreenController;
 
-/**
- *
- * @author varun
- */
+
 
 public class ImageViewer {
     
