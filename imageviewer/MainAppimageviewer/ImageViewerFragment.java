@@ -1,4 +1,4 @@
-package me.varunon9.remotecontrolpc.imageviewer;
+
 
 
 import android.os.Bundle;
