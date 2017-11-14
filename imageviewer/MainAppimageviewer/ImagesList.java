@@ -1,11 +1,8 @@
-
-
 import android.content.ContentResolver;
 import android.content.Context;
 import android.database.Cursor;
 import android.net.Uri;
 import android.os.AsyncTask;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
