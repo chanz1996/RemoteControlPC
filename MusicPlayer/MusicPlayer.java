@@ -11,10 +11,6 @@ import javafx.scene.media.MediaPlayer;
 import javafx.scene.media.MediaPlayer.Status;
 import javafx.util.Duration;
 
-/**
- *
- * @author varun
- */
 public class MusicPlayer {
     Media media;
     MediaPlayer mediaPlayer;
